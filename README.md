@@ -7,9 +7,9 @@
 
 ---
 
-## 📱 Demo
+## 📱 App Logo
 
-![CarDetect Logo](./assets/CarDetect.png)
+<img src="CarDetect.png" width="350">
 
 ---
 
