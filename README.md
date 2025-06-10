@@ -9,7 +9,7 @@
 
 ## 📱 Demo
 
-![CarDetect Logo](./assets/logo.png)
+![CarDetect Logo](./assets/CarDetect.png)
 
 ---
 
